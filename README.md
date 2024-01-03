@@ -9,3 +9,6 @@ I'm not 100% sure what I'll be doing with this improved version, but I do have s
 I will be working on this project whenever I get some time, which won't be very often (at least until late May/early June 2024).
 
 Cheers, Sid
+
+### NOTE
+The source code for this project has contributions from ![KanishkM08](https://github.com/KanishkM08) as part of the original eduBase source. Full credit is given to KanishkM08 for his contributions. Contribution history may be found ![here](https://github.com/Gargantuan5k/edu-base/commits/master/).
